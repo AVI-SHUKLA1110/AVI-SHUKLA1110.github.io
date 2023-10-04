@@ -1481,3 +1481,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+ul.certificate-list li {
+  white-space: nowrap; /* Prevent line breaks within list items */
+  margin-bottom: 10px; /* Adjust the value to increase or decrease spacing */
+}
